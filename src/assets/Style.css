@@ -1,0 +1,17 @@
+body{
+    
+}
+
+.Nav-search i{
+    position: absolute;
+    top: 12px;
+    left: 6px;
+    
+}
+.Nav-search input{
+    padding-left: 30px;
+    border: none;
+}
+.Nav-search input:focus{
+    box-shadow: none;
+}
